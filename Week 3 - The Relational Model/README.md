@@ -1,4 +1,4 @@
-Week 3 - The Relational Model
+# Week 3 - The Relational Model
 
 This week's assignment added the Contact table and Phone Number table to the Microsoft Access Database.
 * Contact Table
