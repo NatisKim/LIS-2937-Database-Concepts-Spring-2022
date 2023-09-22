@@ -1,12 +1,12 @@
 Week 5 - Structured Query Language (SQL) Basics
 This week's project required forming SQL queries that formatted the contents of the tables. This required using coding with SQL language to format the contents of the tables. The following images show the SQL Queries.
 * SQL Query 1
-![SQL Query](Images/query1.png)
+![Query](Images/query1.png)
 * SQL Query 2
-![SQL Query](Images/query2.png)
+![Query2](Images/query2.png)
 * SQL Query 3
-![SQL Query](Images/query3.png)
+![Query3](Images/query3.png)
 * SQL Query 4
-![SQL Query](Images/query4.png)
+![Query4](Images/query4.png)
 * SQL Query 5
-![SQL Query](Images/query5.png)
+![Query5](Images/query5.png)
