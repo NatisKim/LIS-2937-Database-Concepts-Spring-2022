@@ -1,4 +1,5 @@
-Week 4 - Normalization
+# Week 4 - Normalization
+
 This assignment focused on breaking down how to normalize tables in databases. This requires normalization of a relational database.
 * Relational Database Normalization
 ![Normalization](Images/normalized1.png)
