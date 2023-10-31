@@ -3,7 +3,6 @@
 **Files and images are posted for each week.**
 
 # Table of Contents
-<p align="center">
 * Week 2: Starting with Microsoft Access
 * Week 3: The Relational Model
 * Week 4: Normalized Relations
@@ -14,4 +13,4 @@
 * Week 10: Database Design Basics
 * Week 11: Data Relationships
 * Week 12: Database Project
-</p>
+
