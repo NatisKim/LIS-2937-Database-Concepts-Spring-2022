@@ -4,14 +4,14 @@
 
 # Table of Contents
 <p align="center">
-// Week 2: Starting with Microsoft Access
-// Week 3: The Relational Model
-// Week 4: Normalized Relations
-// Week 5: Structured Query Language (SQL) Basics
-// Week 6: Structured Query Language (SQL) Data Modification and Retrieval
-// Week 7: Data Modeling
-// Week 8: Entity Relationship Diagrams
-// Week 10: Database Design Basics
-// Week 11: Data Relationships
-// Week 12: Database Project
+* Week 2: Starting with Microsoft Access
+* Week 3: The Relational Model
+* Week 4: Normalized Relations
+* Week 5: Structured Query Language (SQL) Basics
+* Week 6: Structured Query Language (SQL) Data Modification and Retrieval
+* Week 7: Data Modeling
+* Week 8: Entity Relationship Diagrams
+* Week 10: Database Design Basics
+* Week 11: Data Relationships
+* Week 12: Database Project
 </p>
